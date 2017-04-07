@@ -1,2 +1,3 @@
-# proj4_refugee_narratives
-Exploring Media Narratives about the 2015 Refugee Crisis
+# Media Narratives on the Refugee Crisis
+
+This repo will be cleaned up in the next week or so! (4/7/17)
