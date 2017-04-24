@@ -16,4 +16,4 @@ In the second Jupyter notebook I perform several analyses:
 2. Comparison of frequencies of Moral Foundations words in each news source. This analysis provided the most insight to the project. The graphic above shows the most relevant differences!
 3. K-means clustering of articles based on their proportional concern with each Moral Foundations axis. Again the clusters here were not very coherent or insightful.
 
-[Slides] (/media/Reporting on Refugees in Fox News and the New York Times.pdf) from my project presentation are in the media folder.
+[Slides](/media/Reporting%20on%20Refugees%20in%20Fox%20News%20and%20the%20New%20York%20Times.pdf) from my project presentation are in the media folder.
